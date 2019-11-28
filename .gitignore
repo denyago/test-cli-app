@@ -1,0 +1,10 @@
+# Rust
+/target
+**/*.rs.bk
+
+# TypeScript
+node_modules
+lib
+
+# VSCode
+.vscode

@@ -1,0 +1,10 @@
+---
+# Test config for a YAML linter
+# checks. Maybe will use it later
+# for default CLI options
+one:
+  - el1:
+    attr1: val1
+    attr2: val2
+  - el2:
+    attr3: val2
